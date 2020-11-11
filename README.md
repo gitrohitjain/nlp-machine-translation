@@ -13,7 +13,10 @@ After training for 100 epochs,
 Translated Sentence (english): a boat carrying several men is pulled to shore by a large team of horses.
 
 ----------
+Translation of same input german sentence of the internet:-
+
 Google translation: a boat with several men on it is being pulled ashore by a large team of horses.
+
 Microsoft translation: a boat with several men on it is pulled by a large horse team to the shore.
 
 Training loss after 100 epochs: 0.25
